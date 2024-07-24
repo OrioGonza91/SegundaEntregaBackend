@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Adidas Gazelle",
+    "description": "Adidas Gazelle",
+    "price": "150000",
+    "category": "Zapatillas",
+    "status": true,
+    "thumbnail": "https://i8.amplience.net/t/jpl/fp_product_list?plu=fp_021605_a&qlt=92",
+    "code": "456580",
+    "stock": "100"
+  },
+  {
+    "id": 2,
+    "title": "Adidas Low Forum",
+    "description": "Adidas Low Forum",
+    "price": "180000",
+    "category": "Zapatillas",
+    "status": true,
+    "thumbnail": "https://th.bing.com/th/id/OIP.GVjydvwVwEKH5iu7dZxQkAAAAA?rs=1&pid=ImgDetMain",
+    "code": "789852",
+    "stock": "200"
+  },
+  {
+    "id": 3,
+    "title": "Adidas Predator Mutator",
+    "description": "Adidas Predator Mutator",
+    "price": "195000",
+    "category": "Botines",
+    "status": true,
+    "thumbnail": "https://th.bing.com/th/id/OIP.GudFSQlVMLtHPqEHdFx8wAHaFD?rs=1&pid=ImgDetMain",
+    "code": "123258",
+    "stock": "50"
+  },
+  {
+    "id": 4,
+    "title": "Adidas Predator Skystalker",
+    "description": "Adidas Predator Skystalker",
+    "price": "210000",
+    "category": "Botines",
+    "status": true,
+    "thumbnail": "https://th.bing.com/th/id/OIP.Rwd4XqjurXpfJ9P_GVIDZwHaFM?rs=1&pid=ImgDetMain",
+    "code": "963654",
+    "stock": "75"
+  },
+  {
+    "id": 5,
+    "title": "Adidas UltraBoost Solar Red",
+    "description": "Adidas UltraBoost Solar Red",
+    "price": "175000",
+    "category": "Running",
+    "status": true,
+    "thumbnail": "https://th.bing.com/th/id/OIP.Z9xjRg2o3f3zxx6Z3woo8QHaE8?rs=1&pid=ImgDetMain",
+    "code": "147456",
+    "stock": "45"
+  },
+  {
+    "id": 6,
+    "title": "Adidas Superstar",
+    "description": "Adidas Superstar",
+    "price": "200000",
+    "category": "Zapatillas",
+    "status": true,
+    "thumbnail": "https://th.bing.com/th/id/OIP.5NNrB6U_9BK_SnDIvmCumwHaE8?rs=1&pid=ImgDetMain",
+    "code": "74859",
+    "stock": "100"
+  }
+]
